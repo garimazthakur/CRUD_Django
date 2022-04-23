@@ -12,6 +12,10 @@
 
 
 #### Key Points:
+-ORMs, Object-relational Mappers(ORMs) is a code library that transfer the data stored in relational database tables into objects. It behaves as a ridge between relational database tables, relationships and fields and pyhton obejcts.
+
+- A Queryset is  a list of objects/collection of object from the Django models.
+
 - Django doesn’t hit the database until you explicitly call save().
 - A model class represents a database table, and an instance of that class represents a particular record in the database table.
 - To create an object, instantiate it using keyword arguments to the model class, then call save() to save it to the database. Django doesn’t hit the database until you explicitly call save().
@@ -20,6 +24,8 @@
 - The generic views provided by REST framework allow you to quickly build API views that map closely to your database models.
 
 #### ref: https://www.django-rest-framework.org/api-guide/generic-views/
+
+
 
 
 
