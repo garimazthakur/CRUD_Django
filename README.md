@@ -12,7 +12,10 @@
 
 
 #### Key Points:
--ORMs, Object-relational Mappers(ORMs) is a code library that transfer the data stored in relational database tables into objects. It behaves as a ridge between relational database tables, relationships and fields and pyhton obejcts.
+
+- ORMs, Object-relational Mappers(ORMs) is a code library that transfer the data stored in relational database tables into objects. It behaves as a bridge between relational database tables, relationships and fields and pythton objects.
+
+#### ref: https://www.fullstackpython.com/object-relational-mappers-orms.html
 
 - A Queryset is  a list of objects/collection of object from the Django models.
 
